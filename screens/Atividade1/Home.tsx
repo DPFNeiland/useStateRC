@@ -61,9 +61,6 @@ const Atividade1 = () => {
                     />}
 
 
-
-
-
             </View>
         </View>
     )
