@@ -9,7 +9,7 @@ import Atividade5 from './atividades/Atividade5/atividade';
 
 export default function App() {
   return (
-    <Atividade5/>
+    <Atividade1 />
   );
 }
 
